@@ -37,10 +37,10 @@ const routes = [
         label: "Categories",
     },
 
-    {
-        href : "/settings",
-        label: "Settings",
-    },
+    // {
+    //     href : "/settings",
+    //     label: "Settings",
+    // },
 
 
 
